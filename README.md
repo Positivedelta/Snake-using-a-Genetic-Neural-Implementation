@@ -46,5 +46,9 @@ This code is a *'work in progress'* and I intend to add the following enhancemen
 - An evolution progress plot
 
 If you decide to download and play with this code, have fun and get in touch with any issues or suggestions
+
+#### Screenshot
+```
+An example of a forward only Snake
 ```
 <img src='https://github.com/Positivedelta/-Snake-using-a-Genetic-Neural-Implementation/blob/main/forward-only-6i-6-8-3o.png' width='755' height='690'>
