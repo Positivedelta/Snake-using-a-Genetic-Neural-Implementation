@@ -48,4 +48,6 @@ This code is a *'work in progress'* and I intend to add the following enhancemen
 If you decide to download and play with this code, have fun and get in touch with any issues or suggestions
 
 #### Screenshot
+An example of a `ForwardOnly` snake
+
 ![An example of a forward only snake](https://github.com/Positivedelta/-Snake-using-a-Genetic-Neural-Implementation/blob/main/forward-only-6i-6-8-3o.png)
