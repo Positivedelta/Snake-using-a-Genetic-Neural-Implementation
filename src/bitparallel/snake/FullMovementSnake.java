@@ -22,7 +22,7 @@ public class FullMovementSnake extends Snake
         normalisedGridDiagonal = ROOT_TWO / gridDiagonal;
     }
 
-    // full movement sankes use PointXY classes to hold food locations
+    // full movement snakes use PointXY classes to hold food locations
     //
     protected final Point createNewFoodLocation(final int x, final int y)
     {
@@ -61,7 +61,7 @@ public class FullMovementSnake extends Snake
         for (int dx = 0; dx < HATCHLING_LENGTH; dx++) addHatchling(xTail - dx, y);
     }
 
-    // full movement sankes use PointXY classes to hold segment coordinates
+    // full movement snakes use PointXY classes to hold segment coordinates
     //
     private final void addHatchling(final int x, final int y)
     {
